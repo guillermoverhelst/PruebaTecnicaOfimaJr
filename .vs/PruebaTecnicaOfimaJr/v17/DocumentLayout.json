@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|c:\\users\\guillermo\\source\\repos\\pruebatecnicaofimajr\\pruebatecnicaofimajr\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|solutionrelative:pruebatecnicaofimajr\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|c:\\users\\guillermo\\source\\repos\\pruebatecnicaofimajr\\pruebatecnicaofimajr\\services\\servicioempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|solutionrelative:pruebatecnicaofimajr\\services\\servicioempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|c:\\users\\guillermo\\source\\repos\\pruebatecnicaofimajr\\pruebatecnicaofimajr\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|solutionrelative:pruebatecnicaofimajr\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|c:\\users\\guillermo\\source\\repos\\pruebatecnicaofimajr\\pruebatecnicaofimajr\\pruebatecnicaofimajr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B35B704F-49BB-450F-AC9F-88737E359C32}|PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj|solutionrelative:pruebatecnicaofimajr\\pruebatecnicaofimajr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaOfimaJr\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "PruebaTecnicaOfimaJr\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:26:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Services\\ServicioEmpleado.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaOfimaJr\\Services\\ServicioEmpleado.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Services\\ServicioEmpleado.cs",
+              "RelativeToolTip": "PruebaTecnicaOfimaJr\\Services\\ServicioEmpleado.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:06:55.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaOfimaJr\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\Models\\Empleado.cs",
+              "RelativeToolTip": "PruebaTecnicaOfimaJr\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:42:49.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PruebaTecnicaOfimaJr",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj",
+              "ToolTip": "C:\\Users\\Guillermo\\source\\repos\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj",
+              "RelativeToolTip": "PruebaTecnicaOfimaJr\\PruebaTecnicaOfimaJr.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T05:01:11.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

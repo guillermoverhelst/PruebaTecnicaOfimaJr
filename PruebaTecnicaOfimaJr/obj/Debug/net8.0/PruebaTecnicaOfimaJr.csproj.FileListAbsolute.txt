@@ -31,3 +31,41 @@ C:\Users\Guillermo\source\repos\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\De
 C:\Users\Guillermo\source\repos\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.genruntimeconfig.cache
 C:\Users\Guillermo\source\repos\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\ref\PruebaTecnicaOfimaJr.dll
 C:\Users\Guillermo\source\repos\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\App_Data\Empleados.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\appsettings.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.staticwebassets.endpoints.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.exe
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.deps.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.runtimeconfig.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\PruebaTecnicaOfimaJr.pdb
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.csproj.AssemblyReference.cache
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.AssemblyInfoInputs.cache
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.AssemblyInfo.cs
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.csproj.CoreCompileInputs.cache
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.sourcelink.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\scopedcss\bundle\PruebaTecnicaOfimaJr.styles.css
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnicaOfimaJr.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnicaOfimaJr.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets\msbuild.build.PruebaTecnicaOfimaJr.props
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PruebaTecnicaOfimaJr.props
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PruebaTecnicaOfimaJr.props
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTe.33562FE8.Up2Date
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\refint\PruebaTecnicaOfimaJr.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.pdb
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\PruebaTecnicaOfimaJr.genruntimeconfig.cache
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\obj\Debug\net8.0\ref\PruebaTecnicaOfimaJr.dll
+C:\Users\Ofima\OneDrive - Ofima S.A.S\Documentos\Prueba\PruebaTecnicaOfimaJr\PruebaTecnicaOfimaJr\bin\Debug\net8.0\App_Data\Empleados.json

@@ -28,7 +28,7 @@ namespace PruebaTecnicaOfimaJr.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id) {
             bool eliminado = _servicioEmpleado.EliminarEmpleado(id);
-            Console.WriteLine(eliminado);
+           
             if (!eliminado) 
                 return NotFound(new { mensaje = "Empleado No Encontrado" });
 
@@ -41,6 +41,12 @@ namespace PruebaTecnicaOfimaJr.Controllers
 
             if (!actualizado) return NotFound(new { mensaje = "Empleado No Encontrado"});
             
+            return Ok(empleado);
+        }
+        [HttpGet("{id}")]
+        public IActionResult GetEmpleado(int id) { 
+            var empleado = _servicioEmpleado.BusquedaEmpleado(id);
+            if (empleado == null) return NotFound(new { mensaje = "Empleado No Encontrado"});
             return Ok(empleado);
         }
     }

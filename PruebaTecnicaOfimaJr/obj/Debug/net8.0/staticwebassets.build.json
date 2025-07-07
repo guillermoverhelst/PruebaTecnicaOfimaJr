@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Ld+MG9ztXPdALedICpVmALIYxevNia3Hb4RTasVDqK0=",
+  "Hash": "J+9bZEmJZAiSeB3AzB96lWota3htXcS4uH/slnka3uI=",
   "Source": "PruebaTecnicaOfimaJr",
   "BasePath": "_content/PruebaTecnicaOfimaJr",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

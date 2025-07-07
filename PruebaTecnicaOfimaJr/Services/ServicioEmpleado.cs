@@ -43,9 +43,23 @@ namespace PruebaTecnicaOfimaJr.Services
             if (empleado == null) return false;
             empleado.Nombre = actualizado.Nombre;
             empleado.Correo = actualizado.Correo;
-            empleado.Edad = empleado.Edad;
-            GuardarEmpleados (empleados);
+            empleado.Departamento = actualizado.Departamento;
+            empleado.Telefono = actualizado.Telefono;
+            empleado.FechaIngreso= actualizado.FechaIngreso;
+            empleado.Activo= actualizado.Activo;
+            GuardarEmpleados(empleados);
             return true;
         }
+
+        public Empleado BusquedaEmpleado(int id) { 
+            var empleados = ObtenerEmpleados();
+            var empleado = empleados.FirstOrDefault(e=>e.Id == id);
+            if (empleado == null) return null;
+            return empleado;
+
+        }
+
+
+
     }
 }

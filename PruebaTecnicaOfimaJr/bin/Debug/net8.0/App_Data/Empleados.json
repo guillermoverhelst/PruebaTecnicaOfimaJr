@@ -1,8 +1,12 @@
 [
   {
-    "Id": 4,
-    "Nombre": "messi",
-    "Correo": "siuu",
-    "Edad": 0
+    "Id": 1,
+    "Nombre": "Diana",
+    "Correo": "Diana@gmail",
+    "Cargo": "pro",
+    "Departamento": "lider",
+    "Telefono": "333",
+    "FechaIngreso": "hoy",
+    "Activo": true
   }
 ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnicaOfimaJr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ac95dfab5e50820060ae3db17ae44327cc402d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnicaOfimaJr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnicaOfimaJr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
